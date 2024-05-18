@@ -1,0 +1,15 @@
+Recipient,Supplier,Year of order, ,Number ordered, ,Weapon designation,Weapon description,Number delivered, ,Year(s) of delivery,status,Comments,SIPRI TIV per unit,SIPRI TIV for total order,SIPRI TIV of delivered weapons
+Azerbaijan,Israel,2023,,2,,OptSat-500,recce satellite,0,,,New,,0,0,0
+Egypt,Russia,2009,,1,,EgyptSat-2,recce satellite,1,,2014,New,Incl for civilian role,50,50,50
+Egypt,Russia,2015,?,1,,EgyptSat-2,recce satellite,1,,2019,New,Incl for civilian use; EgyptSat-A version,50,50,50
+Indonesia,France,2023,,,,Helios-2,surveillance satellite,0,,,New,Part of 'Defense Satellite System' (bought from France and Italy); designation uncertain (reported as 'optical earth observation satellite'),50,0,0
+Indonesia,Italy,2023,,,,CSG-2,surveillance satellite,0,,,New,Part of 'Defense Satellite System' (bought from France and Italy),0,0,0
+Italy,Israel,2012,,1,,Ofeq,recce satellite,1,,2017,New,$182 m deal; OPTSAT-3000 version,50,50,50
+Morocco,France,2013,,2,,Helios-2,surveillance satellite,2,,2017; 2018,New,EUR500-585m deal; designation uncertain (reported as 'MN35-13 observation satellites'); Moroccan designation Mohammed-6; incl. for civil government use,50,100,100
+Morocco,Israel,2023,,2,?,Ofeq,recce satellite,0,,,New,Designation uncertain (reported as 'surveillance satellite'),50,100,0
+Peru,France,2014,,1,,Astrosat-300,recce satellite,1,,2016,New,PEN597 m ($200 m) deal (100 offsets incl technology transfers),50,50,50
+South Africa,Russia,2006,,1,,Kondor-E,recce satellite,1,,2014,New,ZAR1.2 b ($186 m) 'Project Consolidated Flute' deal,50,50,50
+Taiwan,France,1999,,1,,ROCSAT-2,recce satellite,1,,2005,New,$70 m deal; after Chinese pressure fitted with limitations to surveillance of Chinese territory,50,50,50
+Thailand,Netherlands,2018,,2,,Napa-1,recce satellite,2,,2021; 2022,New,,10,20,20
+Turkiye,Italy,2009,,1,,Gokturk-1,recce satellite,1,,2016,New,EUR262 m 'Reconnaissance Satellite System Project' (incl 20% produced in Turkey),50,50,50
+UAE,France,2015,,2,,Helios-2,surveillance satellite,1,,2020,New,EUR700 m deal; Falcon Eye or Pleiades version,50,100,50
